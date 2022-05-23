@@ -1,0 +1,63 @@
+[
+    {
+        "id":"1",
+        "carName": "BMW X5",
+        "fuelType":"Petrol and Disel",
+        "engine" :"2993 to 2998 C",
+        "torque" :"450 to 620 Nm",
+        "acceleration" :"5.5 to 6.5 seconds",
+        "topSpeed" :"230 to 243 kmph",
+        "varients":"xDrive4Oi SportX Plus",
+        "bookingStatus":"Booked",
+        "launched":"no",
+        "price" :"6 L",
+        "image":"/images/bmwx5.jpg",
+        "category":"Sedan",
+        "interiorInfo":"This mid-size SUV measures 4,922mm in length and has a 2,975mm wheelbase. Besides, BMW has given it a one-piece kidney grille with flashy chrome trimming and large air inlets in the front bumper. "
+    },
+{
+    "id":"2",
+    "carName": "BMW X6",
+    "fuelType":"Petrol and Disel",
+    "engine" :"2993 to 2998 C",
+    "torque" :"450 to 620 Nm",
+    "acceleration" :"5.5 to 6.5 seconds",
+    "topSpeed" :"230 to 243 kmph",
+    "varients":"xDrive4Oi SportX Plus",
+    "bookingStatus":"Booked",
+    "launched":"no",
+    "price" :"6 L",
+    "category":"SUV",
+    "interiorInfo":"This mid-size SUV measures 4,922mm in length and has a 2,975mm wheelbase. Besides, BMW has given it a one-piece kidney grille with flashy chrome trimming and large air inlets in the front bumper. "
+},
+{
+    "id":"3",
+    "carName": "BMW X7",
+    "fuelType":"Petrol and Disel",
+    "engine" :"2993 to 2998 C",
+    "torque" :"450 to 620 Nm",
+    "acceleration" :"5.5 to 6.5 seconds",
+    "topSpeed" :"230 to 243 kmph",
+    "varients":"xDrive4Oi SportX Plus",
+    "bookingStatus":"NotBooked",
+    "launched":"no",
+    "price" :"6 L",
+    "category":"hatchBack",
+    "interiorInfo":"This mid-size SUV measures 4,922mm in length and has a 2,975mm wheelbase. Besides, BMW has given it a one-piece kidney grille with flashy chrome trimming and large air inlets in the front bumper. "
+},
+{
+    "id":"4",
+    "carName": "BMW X8",
+    "fuelType":"Petrol and Disel",
+    "engine" :"2993 to 2998 C",
+    "torque" :"450 to 620 Nm",
+    "acceleration" :"5.5 to 6.5 seconds",
+    "topSpeed" :"230 to 243 kmph",
+    "varients":"xDrive4Oi SportX Plus",
+    "bookingStatus":"NotBooked",
+    "launched":"no",
+    "price" :"6 L",
+    "category":"coupe",
+    "interiorInfo":"This mid-size SUV measures 4,922mm in length and has a 2,975mm wheelbase. Besides, BMW has given it a one-piece kidney grille with flashy chrome trimming and large air inlets in the front bumper. "
+}
+]

@@ -1,0 +1,36 @@
+.section1{
+        margin-top:1%;    
+        margin-left:50px;
+        width:fit-content;
+        display: flex;
+        flex-direction: row;
+}
+
+.viewAll{
+        width:60px;
+}
+
+.rectangle{
+        padding-top: 88px;
+        height: 74px;
+        width: 1480px;     
+}
+
+.carWall{
+        width: 1479px;
+    height: 300px;
+}
+
+.feturedCars{
+        font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: black;
+    margin-left: 101px;
+}
+
+.foot{
+        padding-top: 20px;
+}

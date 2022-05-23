@@ -1,0 +1,174 @@
+/* .nav {
+    position: absolute;
+width: 1440px;
+height: 72px;
+left: 0px;
+top: 0px;
+
+
+
+background: #000000;
+  }
+  
+  #securanceLogo{
+    position: absolute;
+width: 36px;
+height: 36px;
+left: 128px;
+top: 16px;
+  }
+  
+  .logoText{
+    position: absolute;
+    width: 136px;
+    height: 28px;
+    left: 170px;
+    top: 22px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+  }
+
+  .newCars{
+    width: 87px;
+    height: 23px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    flex: none;
+order: 0;
+flex-grow: 0;
+    
+  }
+  .nav li {
+    cursor: pointer;
+    line-height: 2rem;
+  }
+  
+  .nav li.active{
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+   */
+
+   .nav-list{
+     position: absolute;
+width: 1440px;
+height: 72px;
+left: 0px;
+top: 0px;
+
+
+background: #000000;
+     display:flex;
+     justify-content:flex-end;
+     align-items:center;
+   }
+
+   /* .nav-item{
+     list-style:none;
+     margin-right:2rem;
+     color: #FFFFFF;
+
+   }
+   
+
+   .nav-item a {
+     text-decoration:none;
+     color:#FFFFFF;
+   } */
+
+   .nav-item a {
+    text-decoration:none;
+    color:#FFFFFF;
+  }
+
+   #newCar{
+    width: 87px;
+    height: 23px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    margin-left:-906px;
+    color: #FFFFFF;
+   }
+   #profile{
+    position: absolute;
+    width: 118px;
+    height: 23px;
+    left: 1214px;
+    top: 24px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+   }
+
+   #usedCar{
+    width: 92px;
+    height: 23px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    margin-left:-786px;
+    color: #FFFFFF;
+   }
+
+   .nav-item:first-child{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 128px;
+    top: 16px;
+   }
+
+   
+
+   #cardekho{
+    position: absolute;
+    width: 136px;
+    height: 28px;
+    left: 128px;
+    top: 12px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    margin-left:-100px;
+    color: #FFFFFF;
+   }
+

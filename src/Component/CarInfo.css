@@ -1,0 +1,131 @@
+.header{
+    width :100%;
+    height:20%;
+    margin-top: 6.5%;
+    background-color: blue;
+}
+
+.carHeadings{
+    display: flex;
+}
+
+.carName{
+    padding-top: 2%;
+    width: 400px;
+height: 19px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size:32px;
+line-height: 19px;
+padding-left: 6%;
+
+}
+
+.carSpecification{
+padding-left: 34%;
+width: 400px;
+height: 19px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size:32px;
+line-height: 19px;
+padding-top: 2%;
+}
+.carPhoto{
+    padding-top: 4%;
+    padding-left: 34%;
+    position :absolute;
+    width: 388px;
+    height:300px;
+    left: 0px;
+    top:58px;
+}
+.carDetails{
+    display: flex;
+}
+
+.carDetailsInfo{
+    padding-left: 70%;
+}
+
+.infoHed{
+    width: 69px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size:16px;
+    line-height: 19px;
+    padding-top: 4%;
+}
+
+.infoValue{
+    width: 300px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size:20px;
+    line-height: 19px;
+    padding-top: 2%;
+}
+
+.internalDesignPhoto{
+    padding-top: 35%;
+    padding-left: 21%;
+    position :absolute;
+    width: 388px;
+    height:300px;
+    left: 0px;
+    top:58px;
+}
+
+.interiorFinishes{
+    width: 400px;
+    height: 27px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size:32px;
+    line-height: 19px;
+    padding-top: 4%;
+    padding-left: 830px;
+}
+
+.interiorInfo{
+    padding-left: 70%;
+    padding-top: 2%;
+}
+
+.bookNowButton{
+    padding-left:70%;
+    padding-top: 1%;
+}
+.priceTag{
+    display: flex;
+    margin-left: 980px;
+    margin-top: 232px;
+}
+.priceHeading{
+    padding-left: 23px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.priceValueHeading{
+    padding-left: 59px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}

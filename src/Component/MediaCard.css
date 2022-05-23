@@ -1,0 +1,21 @@
+.card{
+    color:#000000;
+}
+
+
+.tbody{
+    margin-left: 20px;
+display: flex;
+
+}
+.cardHolder{
+    padding-right: 20px;
+}
+
+.detailAction{
+    display: flex;
+}
+
+.arr{
+padding-left: 60px;
+}

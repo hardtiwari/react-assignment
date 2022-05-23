@@ -1,0 +1,109 @@
+.blackcover{
+    position: absolute;
+    /* top: 13px; */
+    height: 260px;
+    /* left: 0px; */
+    width: 1450px;
+    background: black;
+    
+
+}
+
+/* .background{
+    background: black;
+    width: 1000px;
+    height: 2000px;
+} */
+
+.services{
+    position: absolute;
+width: 246px;
+height: 252px;
+left: 218px;
+top: 60px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+padding-top: 20px;
+color: #FFFFFF;
+}
+
+.xtremeCars{
+    position: absolute;
+    width: 246px;
+    height: 252px;
+    left: 218px;
+    top: 40px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.contactHeading{
+    position: absolute;
+    width: 246px;
+    height: 252px;
+    left: 589px;
+    top: 40px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.address{
+    position: absolute;
+width: 246px;
+height: 252px;
+left: 589px;
+top: 73px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.legalHeading{
+    position: absolute;
+    width: 246px;
+    height: 252px;
+    left: 950px;
+    top: 40px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.legal{
+    position: absolute;
+    width: 246px;
+    height: 252px;
+    left: 950px;
+    top: 73px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+}

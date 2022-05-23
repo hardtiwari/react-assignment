@@ -1,0 +1,133 @@
+.form{
+    height: 520px !important;
+    margin-top: 132px;
+    background: #F5F5F5;
+    width: 40%;
+    height: 40%;
+    margin-left:30%;
+}
+
+
+.heading{
+    padding-left: 10%;
+width: 400px;
+height: 19px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size:32px;
+line-height: 19px;
+padding-top: 2%;
+}
+
+.selectedCarDetails{
+    position: absolute;
+    width: 276px;
+    height: 520px;
+    left: 95px;
+    top: 133px;
+    background: #F5F5F5;;
+}
+
+.formDetail{
+    padding-left: 10%;
+}
+
+.name{
+    padding-top: 7%;
+}
+
+.contact{
+    padding-top: 7%;
+}
+
+.country{
+    padding-top: 7%;
+}
+
+.bookNow{
+    width:77px;
+    height:28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size:24px;
+    line-height: 28px;
+    background:#790E22 !important;
+    padding-top: 10%;
+
+}
+
+.submit{
+    padding-top: 7%;
+}
+.sub{
+    color: white;
+}
+.carDetailHeading{
+    width: 400px;
+height: 19px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size:32px;
+line-height: 19px;
+padding-top: 5%;
+padding-left: 15%;
+}
+
+.selectedCarImg{
+    width:182.3px;
+    height:141.18px;
+    padding-top: 20%;
+    padding-left: 15%;
+}
+
+.carNameBold{
+    width: 140px;
+    height: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size:32px;
+    line-height: 38px;
+    color: black;
+    padding-left: 15%;
+    padding-top: 8%;
+}
+
+
+.cardetailInfo{
+    width: 69px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size:16px;
+    line-height: 19px;
+    padding-top: 8%;
+    padding-left: 15%;
+}
+
+.viewAllplan{
+    padding-left: 15%;
+    padding-top: 8%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size:32px;
+    line-height: 38px;
+}
+
+.cardetailInfoValue{
+    width: 300px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size:25px;
+    line-height: 23px;
+    padding-top: 2%;
+    padding-left: 15%;
+    color: black;
+}
